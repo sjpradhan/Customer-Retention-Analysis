@@ -21,3 +21,15 @@ An organization is seeking an experienced analyst to conduct an in-depth analysi
 - Visualization & Reporting
 - Tolls : SQL, Power BI, Power Query, DAX
 
+# Dataset Attribute :
+
+| Attribute  Info   | Data Type |
+|---------------|-----------|
+| InvoiceNo     | String    |
+| StockCode     | String    |
+| Description   | String    |
+| Quantity      | Integer   |
+| InvoiceDate   | Date      |
+| UnitPrice     | Float     |
+| CustomerID    | Integer   |
+| Country       | String    |
