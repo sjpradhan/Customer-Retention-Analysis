@@ -19,7 +19,7 @@ An organization is seeking an experienced analyst to conduct an in-depth analysi
 - Cohort Analysis
 - Analyze customer behavior patterns based on their common sharing characteristics.
 - Visualization & Reporting
-- Tolls : SQL, Power BI, Power Query, DAX
+- Tools : SQL, Power BI, Power Query, DAX
 
 # Dataset Attribute :
 
