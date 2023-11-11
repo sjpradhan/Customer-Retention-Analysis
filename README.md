@@ -43,7 +43,7 @@ An organization is seeking an experienced analyst to conduct an in-depth analysi
 - The cohorts display a 0% churn rate in the first month, indicating stability and retention of customers during the initial engagement period.
 
 - There are variations in churn rates across different cohorts. Some cohorts maintain low churn rates, while others experience higher churn over time.
-- 
+
 - The data highlights fluctuations in active customers, with peaks in November 2011, and a significant drop in December 2011, indicating a potential issue or seasonal trend. 
 
 - Additionally, new customer acquisition varies each month, suggesting the need for targeted strategies to maintain or enhance customer growth. 
